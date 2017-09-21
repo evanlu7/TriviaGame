@@ -26,7 +26,7 @@ This is the simple homework assignment for Week 5 of the UCLA Coding Bootcamp.
 
 ## Installation
 
-This project is problicly available on https://github.com/evanlu7.
+This project is publicly available on https://github.com/evanlu7.
 
 ## Contributors
 
