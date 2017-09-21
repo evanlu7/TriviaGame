@@ -6,6 +6,19 @@ This is a timed form about 90s hip hop.  The alloted time is 60 seconds.
 
 ## Code Example
 
+used decrement function for timer: 
+function decrement() {
+number--;
+}
+
+used if function to check answers:
+if (question1 == "answer4") {
+correct++;
+}
+
+made "submit" and "start" buttons respond to visibility.
+document.getElementById("submit").style.visibility = "visible";
+
 
 ## Motivation
 
